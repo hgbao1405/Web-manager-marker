@@ -1,0 +1,15 @@
+C:\Asp.net\MyWeb\CharacterRepo\bin\Debug\net6.0\CharacterRepo.deps.json
+C:\Asp.net\MyWeb\CharacterRepo\bin\Debug\net6.0\CharacterRepo.dll
+C:\Asp.net\MyWeb\CharacterRepo\bin\Debug\net6.0\CharacterRepo.pdb
+C:\Asp.net\MyWeb\CharacterRepo\bin\Debug\net6.0\Shared.dll
+C:\Asp.net\MyWeb\CharacterRepo\bin\Debug\net6.0\Shared.pdb
+C:\Asp.net\MyWeb\CharacterRepo\obj\Debug\net6.0\CharacterRepo.csproj.AssemblyReference.cache
+C:\Asp.net\MyWeb\CharacterRepo\obj\Debug\net6.0\CharacterRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.net\MyWeb\CharacterRepo\obj\Debug\net6.0\CharacterRepo.AssemblyInfoInputs.cache
+C:\Asp.net\MyWeb\CharacterRepo\obj\Debug\net6.0\CharacterRepo.AssemblyInfo.cs
+C:\Asp.net\MyWeb\CharacterRepo\obj\Debug\net6.0\CharacterRepo.csproj.CoreCompileInputs.cache
+C:\Asp.net\MyWeb\CharacterRepo\obj\Debug\net6.0\CharacterRepo.csproj.CopyComplete
+C:\Asp.net\MyWeb\CharacterRepo\obj\Debug\net6.0\CharacterRepo.dll
+C:\Asp.net\MyWeb\CharacterRepo\obj\Debug\net6.0\refint\CharacterRepo.dll
+C:\Asp.net\MyWeb\CharacterRepo\obj\Debug\net6.0\CharacterRepo.pdb
+C:\Asp.net\MyWeb\CharacterRepo\obj\Debug\net6.0\ref\CharacterRepo.dll

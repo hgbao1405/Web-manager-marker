@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\Image\\TypeMarker\\Background.png",
+      "PackagePath": "staticwebassets\\Image\\TypeMarker\\Background.png"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\Image\\TypeMarker\\Character.png",
+      "PackagePath": "staticwebassets\\Image\\TypeMarker\\Character.png"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Character\\controller.js",
+      "PackagePath": "staticwebassets\\front-end\\admin\\Character\\controller.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Character\\index.html",
+      "PackagePath": "staticwebassets\\front-end\\admin\\Character\\index.html"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Home\\controller.js",
+      "PackagePath": "staticwebassets\\front-end\\admin\\Home\\controller.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Home\\index.html",
+      "PackagePath": "staticwebassets\\front-end\\admin\\Home\\index.html"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Marker\\controller.js",
+      "PackagePath": "staticwebassets\\front-end\\admin\\Marker\\controller.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Marker\\index.html",
+      "PackagePath": "staticwebassets\\front-end\\admin\\Marker\\index.html"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\background\\controller.js",
+      "PackagePath": "staticwebassets\\front-end\\admin\\background\\controller.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\background\\index.html",
+      "PackagePath": "staticwebassets\\front-end\\admin\\background\\index.html"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MyWeb.props",
+      "PackagePath": "build\\MyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MyWeb.props",
+      "PackagePath": "buildMultiTargeting\\MyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MyWeb.props",
+      "PackagePath": "buildTransitive\\MyWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

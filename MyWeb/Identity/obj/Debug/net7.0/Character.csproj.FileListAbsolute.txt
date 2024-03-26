@@ -1,0 +1,12 @@
+C:\Asp.net\MyWeb\Identity\bin\Debug\net7.0\Character.deps.json
+C:\Asp.net\MyWeb\Identity\bin\Debug\net7.0\Character.dll
+C:\Asp.net\MyWeb\Identity\bin\Debug\net7.0\Character.pdb
+C:\Asp.net\MyWeb\Identity\obj\Debug\net7.0\Character.csproj.AssemblyReference.cache
+C:\Asp.net\MyWeb\Identity\obj\Debug\net7.0\Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.net\MyWeb\Identity\obj\Debug\net7.0\Character.AssemblyInfoInputs.cache
+C:\Asp.net\MyWeb\Identity\obj\Debug\net7.0\Character.AssemblyInfo.cs
+C:\Asp.net\MyWeb\Identity\obj\Debug\net7.0\Character.csproj.CoreCompileInputs.cache
+C:\Asp.net\MyWeb\Identity\obj\Debug\net7.0\Character.dll
+C:\Asp.net\MyWeb\Identity\obj\Debug\net7.0\refint\Character.dll
+C:\Asp.net\MyWeb\Identity\obj\Debug\net7.0\Character.pdb
+C:\Asp.net\MyWeb\Identity\obj\Debug\net7.0\ref\Character.dll
