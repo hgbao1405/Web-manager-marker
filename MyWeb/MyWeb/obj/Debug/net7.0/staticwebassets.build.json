@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xBXRYnBSvBwstRKLxxZK3v9cAfHxCH/wvjL0c4c+2ZA=",
+  "Hash": "lLnmp3YCxQewQ5L41P/jzi+UZYNHCwe5AHxWzjkM6no=",
   "Source": "MyWeb",
   "BasePath": "_content/MyWeb",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyWeb\\wwwroot",
       "Source": "MyWeb",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyWeb.styles.css",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyWeb.styles.css",
       "SourceId": "MyWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "MyWeb.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Asp.net\\MyWeb\\MyWeb\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyWeb.styles.css"
+      "OriginalItemSpec": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyWeb.styles.css"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyWeb.bundle.scp.css",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyWeb.bundle.scp.css",
       "SourceId": "MyWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "MyWeb.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Asp.net\\MyWeb\\MyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyWeb.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyWeb.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\css\\site.css",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\favicon.ico",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\background\\controller.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\background\\controller.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "front-end/admin/background/controller.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\front-end\\admin\\background\\controller.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\background\\index.html",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\background\\index.html",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "front-end/admin/background/index.html",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\front-end\\admin\\background\\index.html"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Character\\controller.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Character\\controller.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "front-end/admin/Character/controller.js",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\front-end\\admin\\Character\\controller.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Character\\index.html",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Character\\index.html",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "front-end/admin/Character/index.html",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\front-end\\admin\\Character\\index.html"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Home\\controller.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Home\\controller.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "front-end/admin/Home/controller.js",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\front-end\\admin\\Home\\controller.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Home\\index.html",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Home\\index.html",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "front-end/admin/Home/index.html",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\front-end\\admin\\Home\\index.html"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Marker\\controller.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Marker\\controller.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "front-end/admin/Marker/controller.js",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\front-end\\admin\\Marker\\controller.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Marker\\index.html",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\front-end\\admin\\Marker\\index.html",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "front-end/admin/Marker/index.html",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\front-end\\admin\\Marker\\index.html"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\Image\\TypeMarker\\Background.png",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\Image\\TypeMarker\\Background.png",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "Image/TypeMarker/Background.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\TypeMarker\\Background.png"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\Image\\TypeMarker\\Character.png",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\Image\\TypeMarker\\Character.png",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "Image/TypeMarker/Character.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\Image\\TypeMarker\\Character.png"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\js\\site.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Asp.net\\MyWeb\\MyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\wwwroot\\",
       "BasePath": "_content/MyWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",

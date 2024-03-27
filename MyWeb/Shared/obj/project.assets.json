@@ -10016,11 +10016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Asp.net\\MyWeb\\Shared\\Shared.csproj",
+      "projectUniqueName": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "C:\\Asp.net\\MyWeb\\Shared\\Shared.csproj",
+      "projectPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\giaba\\.nuget\\packages\\",
-      "outputPath": "C:\\Asp.net\\MyWeb\\Shared\\obj\\",
+      "outputPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

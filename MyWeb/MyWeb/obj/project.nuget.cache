@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MBXphQw+lnYRsZIcRWdCDkrDnPLG/HJPgmkipvrvfXrtPhume+dspdzKBIFPkcU7G3hZBx9XKPkmR/8LIwJ9+w==",
+  "dgSpecHash": "h/tfc5YC166H63r32tRBuL/Wg0eVqr0Y4R9pq22dgbhDo1VG3HFJy34krJEwPpNFKq5zO+XJ3cTewu6WpbWkmw==",
   "success": true,
-  "projectFilePath": "C:\\Asp.net\\MyWeb\\MyWeb\\MyWeb.csproj",
+  "projectFilePath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\MyWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giaba\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\giaba\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

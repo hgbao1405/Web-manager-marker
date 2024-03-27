@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Asp.net\\MyWeb\\MyWeb\\MyWeb.csproj": {}
+    "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\MyWeb.csproj": {}
   },
   "projects": {
-    "C:\\Asp.net\\MyWeb\\CharacterRepo\\CharacterRepo.csproj": {
+    "C:\\Asp.net\\Web-manager-marker\\MyWeb\\CharacterRepo\\CharacterRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Asp.net\\MyWeb\\CharacterRepo\\CharacterRepo.csproj",
+        "projectUniqueName": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\CharacterRepo\\CharacterRepo.csproj",
         "projectName": "CharacterRepo",
-        "projectPath": "C:\\Asp.net\\MyWeb\\CharacterRepo\\CharacterRepo.csproj",
+        "projectPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\CharacterRepo\\CharacterRepo.csproj",
         "packagesPath": "C:\\Users\\giaba\\.nuget\\packages\\",
-        "outputPath": "C:\\Asp.net\\MyWeb\\CharacterRepo\\obj\\",
+        "outputPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\CharacterRepo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Asp.net\\MyWeb\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Asp.net\\MyWeb\\Shared\\Shared.csproj"
+              "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Shared\\Shared.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Asp.net\\MyWeb\\Identity\\CharacterModule.csproj": {
+    "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Identity\\CharacterModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Asp.net\\MyWeb\\Identity\\CharacterModule.csproj",
+        "projectUniqueName": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Identity\\CharacterModule.csproj",
         "projectName": "CharacterModule",
-        "projectPath": "C:\\Asp.net\\MyWeb\\Identity\\CharacterModule.csproj",
+        "projectPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Identity\\CharacterModule.csproj",
         "packagesPath": "C:\\Users\\giaba\\.nuget\\packages\\",
-        "outputPath": "C:\\Asp.net\\MyWeb\\Identity\\obj\\",
+        "outputPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -93,11 +93,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Asp.net\\MyWeb\\CharacterRepo\\CharacterRepo.csproj": {
-                "projectPath": "C:\\Asp.net\\MyWeb\\CharacterRepo\\CharacterRepo.csproj"
+              "C:\\Asp.net\\Web-manager-marker\\MyWeb\\CharacterRepo\\CharacterRepo.csproj": {
+                "projectPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\CharacterRepo\\CharacterRepo.csproj"
               },
-              "C:\\Asp.net\\MyWeb\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Asp.net\\MyWeb\\Shared\\Shared.csproj"
+              "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Shared\\Shared.csproj"
               }
             }
           }
@@ -153,14 +153,14 @@
         }
       }
     },
-    "C:\\Asp.net\\MyWeb\\MyWeb\\MyWeb.csproj": {
+    "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\MyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Asp.net\\MyWeb\\MyWeb\\MyWeb.csproj",
+        "projectUniqueName": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\MyWeb.csproj",
         "projectName": "MyWeb",
-        "projectPath": "C:\\Asp.net\\MyWeb\\MyWeb\\MyWeb.csproj",
+        "projectPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\MyWeb.csproj",
         "packagesPath": "C:\\Users\\giaba\\.nuget\\packages\\",
-        "outputPath": "C:\\Asp.net\\MyWeb\\MyWeb\\obj\\",
+        "outputPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\MyWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -180,11 +180,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Asp.net\\MyWeb\\Identity\\CharacterModule.csproj": {
-                "projectPath": "C:\\Asp.net\\MyWeb\\Identity\\CharacterModule.csproj"
+              "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Identity\\CharacterModule.csproj": {
+                "projectPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Identity\\CharacterModule.csproj"
               },
-              "C:\\Asp.net\\MyWeb\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Asp.net\\MyWeb\\Shared\\Shared.csproj"
+              "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Shared\\Shared.csproj"
               }
             }
           }
@@ -257,14 +257,14 @@
         }
       }
     },
-    "C:\\Asp.net\\MyWeb\\Shared\\Shared.csproj": {
+    "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Asp.net\\MyWeb\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Asp.net\\MyWeb\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\giaba\\.nuget\\packages\\",
-        "outputPath": "C:\\Asp.net\\MyWeb\\Shared\\obj\\",
+        "outputPath": "C:\\Asp.net\\Web-manager-marker\\MyWeb\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
