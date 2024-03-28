@@ -23,7 +23,9 @@ app.factory('APIs', function ($http) {
         $http(req).then(callback);
     };
     return {
-        
+        GetAllTypeMarker:function(callback){
+            $http.get("/api/Marker/GetAllTypeMarker").then(callback);
+        },
     }
 });
 app.config(function ($routeProvider){
@@ -34,7 +36,15 @@ app.config(function ($routeProvider){
 });
 
 
-app.controller("index",function($scope){
+app.controller("index",function($scope,APIs){
+    $scope.model={
+        "id": 0,
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "dgr": 1,
+        "typeid": 0
+      };
     const container = document.getElementById("popup");
     const content = document.getElementById("popup-content");
     const closer = document.getElementById("popup-closer");
@@ -64,7 +74,6 @@ app.controller("index",function($scope){
     closer.onclick = function () {
         overlay.setPosition(undefined);
         closer.blur();
-        $scope.marker=null;
         return false;
     };
     // Create a vector source and layer to add points
@@ -98,11 +107,11 @@ app.controller("index",function($scope){
             });
             //Set style marker
             var Icon=$scope.listType.filter(function(item) {
-                return item.id === $scope.chooseType;
+                return item.id === $scope.typeid;
             })
             if(Icon.length>0){
                 $scope.marker.setStyle(new ol.style.Style({
-                    image: Icon[0].Icon
+                    image: Icon[0].StyleIcon
                 }));
             }
             //Popup thông tin marker
@@ -111,12 +120,11 @@ app.controller("index",function($scope){
                 ol.coordinate.toStringHDMS(ol.proj.toLonLat($scope.coordinate)) +
                 "</code>";
             overlay.setPosition($scope.coordinate);
-
-
             //Thêm marker vảo bản đồ
             vectorSource.addFeature($scope.marker);
         }
-        $scope.cooodinateString=ol.proj.toLonLat($scope.coordinate);
+        $scope.model.x=$scope.coordinate[0]
+        $scope.model.y=$scope.coordinate[1]
         $scope.$apply()
     });
     $scope.id=0
@@ -125,48 +133,56 @@ app.controller("index",function($scope){
             $scope.marker.setId($scope.id)
             $scope.id++;
         }
+        console.log($scope.model);
     }
     $scope.setIcon=function(id){
         if($scope.marker){
             var Icon=$scope.listType.filter(function(item) {
-                return item.id === $scope.chooseType;
+                return item.id === $scope.typeid;
             })
             if(Icon.length>0){
                 $scope.marker.setStyle(new ol.style.Style({
-                    image: Icon[0].Icon
+                    image: Icon[0].StyleIcon
                 }));
             }
         }
     }
     $scope.init=function(){
-        $scope.listType=[{
-            id:1,
-            title:"Character",
-            Link:"/Image/TypeMarker/Character.png"
-        },
-        {
-            id:2,
-            title:"Background",
-            Link:"/Image/TypeMarker/Background.png"
-        }]
-        $scope.listType.forEach(function(item){
-            item.Icon = new ol.style.Icon({
-                anchor: [0.5, 1],
-                src: item.Link, // Đường dẫn đến hình ảnh mặc định
-                scale: 0.8
+        APIs.GetAllTypeMarker(function(rs){
+            rs=rs.data;
+            console.log(rs);
+            $scope.listType=rs;
+            $scope.listType.forEach(function(item){
+                item.StyleIcon = new ol.style.Icon({
+                    anchor: [0.5, 1],
+                    src: item.icon, // Đường dẫn đến hình ảnh mặc định
+                    scale: 0.8
+                });
+            })
+            var vectorLayer = new ol.layer.Vector({
+                source: vectorSource,
+                style: new ol.style.Style({
+                image: $scope.listType[0].StyleIcon,
+                }),
             });
-        })
         
-        var vectorLayer = new ol.layer.Vector({
-            source: vectorSource,
-            style: new ol.style.Style({
-            image: $scope.listType[0].Icon,
-            }),
-        });
-    
-        map.addLayer(vectorLayer);
-        $scope.chooseType=1;
-        $scope.setIcon(1);
+            map.addLayer(vectorLayer);
+            $scope.typeid=1;
+            $scope.setIcon(1);
+        })
+        // $scope.listType=[{
+        //     id:1,
+        //     title:"Character",
+        //     Link:"/Image/TypeMarker/Character.png"
+        // },
+        // {
+        //     id:2,
+        //     title:"Background",
+        //     Link:"/Image/TypeMarker/Background.png"
+        // }]
+        
+        
+        
     }
 
     $scope.init()

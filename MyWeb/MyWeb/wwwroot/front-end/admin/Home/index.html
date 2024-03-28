@@ -59,11 +59,13 @@
     </div>
     <div class="col-6">
         <div class="form-group">
-            <input type="text" ng-model="cooodinateString">
+          <input type="text" ng-model="model.x">
+          <input type="text" ng-model="model.y">
+          <input type="text" ng-model="model.dgr">
         </div>
         <div >
-            <select ng-model="chooseType" id="mySelect" ng-change="setIcon(chooseType)"
-            ng-options="item.id as item.title for item in listType"
+            <select ng-model="typeid" id="mySelect" ng-change="setIcon(typeid)"
+            ng-options="item.id as item.name for item in listType"
             >
             </select>
         </div>
